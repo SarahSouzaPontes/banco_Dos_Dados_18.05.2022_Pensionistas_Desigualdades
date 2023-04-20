@@ -1,6 +1,8 @@
 # banco_Dos_Dados_18.05.2022_Pensionistas_Desigualdades
 Banco_Dos_Dados_18.05.2022_Pensionistas_Desigualdades
 
+CARACTERÍSTICAS DOS BENEFICIÁRIOS E TIPO DE BENEFÍCIOS
+PENSIONÁRIOS
 
 INTRODUÇÃO
 O Brasil, de acordo com o seu perfil sociodemográfico, vem apresentando uma
