@@ -19,7 +19,7 @@ fecundidade.
 Ou seja, todas as teorias acabam se baseando na redução na questão da transição da
 fecundidade que podem ser correlacionadas pela escassez ou ausência de perspectivas
 financeiras gerando novos padrões de comportamentos reprodutivos e difusão do uso dos
-métodos contraceptivos. Associado isso, o envelhecimento da população o economicamente
+métodos contraceptivos. Associado a isso, o envelhecimento da população o economicamente
 ativa e aumento do número das doenças crônicas, degenerativas e exaustivas gera
 perspectivas questionáveis do quanto a previdência social do país pode suportar e sustentar
 essa população que por sua vez pode necessitar desse benefício visto a necessidade e
