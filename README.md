@@ -74,7 +74,7 @@ de 13 e valor mínimo de -193 e máximo de 128 anos, decidimos excluir todos val
 de 0, uma vez que não há coerência nos dados com tempo de benefício negativo. As
 características mais prevalentes dos beneficiários eram: viúvas, filha maior solteira sem
 cargo público, filho, filha, companheira (o), filho invalido e viúvo variando de 137.788
-indivíduos a 2.611 mil. As demais categorias representavam menos de 2.500 tipos debenefícios entre 34 categorias como mãe, enteado, irmã viúva, pai, sobrinhos menores entre
+indivíduos a 2.611 mil. As demais categorias representavam menos de 2.500 tipos de benefícios  entre 34 categorias como mãe, enteado, irmã viúva, pai, sobrinhos menores entre
 outras.
 Os tipos de pensão mais prevalentes fora
 3373/58, e Lei 8112/90.
