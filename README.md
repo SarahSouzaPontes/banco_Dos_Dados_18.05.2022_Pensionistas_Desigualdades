@@ -26,7 +26,7 @@ essa população que por sua vez pode necessitar desse benefício visto a necess
 demanda de um número cada vez maior de recursos.
 Pois, é pouco conhecido o perfil desse beneficiário nesse momento, assim como suas
 características sociodemográficas. Desta forma, o seguinte estudo tem como objetivo analisar
-a prevalência das características dos beneficiários e tipo de pensão e correlacionar o
+a prevalência das características dos beneficiários, tipo de pensão, correlacionar o
 rendimento bruto, idade do servidor, escolaridade e pagamento suspenso do benefício.
 
 METODOLOGIA
