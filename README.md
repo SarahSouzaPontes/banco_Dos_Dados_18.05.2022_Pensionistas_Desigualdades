@@ -5,6 +5,8 @@ CARACTERÍSTICAS DOS BENEFICIÁRIOS E TIPO DE BENEFÍCIOS
 PENSIONÁRIOS
 
 INTRODUÇÃO
+
+
 O Brasil, de acordo com o seu perfil sociodemográfico, vem apresentando uma
 transição demográfica em que a sua teoria tradicional possui três postulados centrais, o
 primeiro consiste na queda da mortalidade, o segundo na transição reprodutiva, e o terceiro
