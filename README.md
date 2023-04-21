@@ -82,23 +82,19 @@ A Lei nº 3.373/1958 c/c a Lei nº 6.782/1980 estabelece que, em caso de óbito 
 servidor público, as suas filhas solteiras e maiores de 21 anos possuem direito ao recebimento
 de pensão. A Lei n.º 8.112/90,descreve os beneficiários da pensão por morte, os filhos, ou
 enteados do servidor falecido, até 21 anos de idade, ou inválidos,de acordo com a
-permanência da invalidez.
-m devido às Leis 3373/58 com 6782/80, Lei
+permanência da invalidez, devido às Leis 3373/58 com 6782/80, Lei
 Realizada uma nova formatação do
 bruto, idade do servidor, escolaridade do cargo e pagamento suspenso, transformadas em
 variáveis dummies. Foram normalizadas as variáveis rendimento bruto e idade do servidor,
 por serem numéricas. Avaliada a correlação entre as variáveis apresentand
 significativa estatisticamente e positiva para
-Fonte: Produzido pelos autores.
+
+
+###GRÁFICO###
+Fonte: Produzido pela autora.
 Figura 2. Correlação entre as variáveis
 
-CONCLUSÃO
 
-Os beneficiários são mais representativos viúvas, filha
-público, filho, filha, companheira (o), filho invalido e viúvo e o tipo de benefício devido: Leis
-3373/58 com 6782/80, Lei 3373/58 isolada e Lei 8112/90.
-dataset mantendo apenas as colunas rend
-escolaridade e rendimento bruto.
 CONCLUSÃO
 Os beneficiários são mais representativos viúvas, filha
 público, filho, filha, companheira (o), filho invalido e viúvo e o tipo de benefício devido: Leis
