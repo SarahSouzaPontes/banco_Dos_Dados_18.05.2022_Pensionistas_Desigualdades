@@ -24,11 +24,13 @@ ativa e aumento do número das doenças crônicas, degenerativas e exaustivas ge
 perspectivas questionáveis do quanto a previdência social do país pode suportar e sustentar
 essa população que por sua vez pode necessitar desse benefício visto a necessidade e
 demanda de um número cada vez maior de recursos.
-Pois é pouco conhecido o perfil desse beneficiário nesse momento, assim como suas
+Pois, é pouco conhecido o perfil desse beneficiário nesse momento, assim como suas
 características sociodemográficas. Desta forma, o seguinte estudo tem como objetivo analisar
 a prevalência das características dos beneficiários e tipo de pensão e correlacionar o
 rendimento bruto, idade do servidor, escolaridade e pagamento suspenso do benefício.
+
 METODOLOGIA
+
 Estudo transversal descritivo, utilizando os dados datalake público com recorte de
 tempo de 1994 a 2021 Serão analisadas variáveis como data de nascimento e falecimento do
 servidor, tipo de beneficiário, rendimento líquido e pagamento suspenso. Será avaliada a
@@ -47,7 +49,9 @@ Os modelos selecionados para verificar a fase do projeto de Machine Learning for
 Regressão Linear Múltipla. O modelo de aprendizagem de máquina apresentou acurácia de
 99% (0.999994 (0.000009)). Foram selecionadas como variáveis target pagamento suspenso
 do benefício e variáveis independentes rendimento bruto e idade do servidor.
+
 RESULTADOS
+
 O formato do banco de dados analisados constou de 310.003 linhas e 30 colunas com
 variáveis tais como: ano, mês, nome do servidor, cpf do servidor, data de nascimento e
 falecimento do servidor, matrícula, nome do órgão, sigla do órgão, código do órgão
@@ -87,7 +91,9 @@ por serem numéricas. Avaliada a correlação entre as variáveis apresentand
 significativa estatisticamente e positiva para
 Fonte: Produzido pelos autores.
 Figura 2. Correlação entre as variáveis
+
 CONCLUSÃO
+
 Os beneficiários são mais representativos viúvas, filha
 público, filho, filha, companheira (o), filho invalido e viúvo e o tipo de benefício devido: Leis
 3373/58 com 6782/80, Lei 3373/58 isolada e Lei 8112/90.
